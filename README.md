@@ -1,4 +1,5 @@
-🤖 LearnBot - Your Interactive Programming Companion
+                            🤖 LearnBot - Your Interactive Programming Companion
+
 LearnBot is a desktop-based interactive learning platform designed to help beginners master fundamental and advanced programming concepts. Built with Python and Tkinter, it provides a structured learning path, real-world analogies, and a built-in assessment system to make coding education engaging and accessible.
 
 🌟 Key Features
